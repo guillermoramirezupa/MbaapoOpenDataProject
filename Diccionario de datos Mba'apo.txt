@@ -1,0 +1,22 @@
+﻿Diccionario de Datos Mba’apo Group
+
+
+Tipo de Archivo: CSV (Comma Separator Value)
+
+
+Observación: Debido a la complejidad del sitio en el que se aloja se debe realizar una limpieza de dataset antes de realizar su entrega a quien requiera.
+
+
+Cantidad de columnas: 4
+
+
+* Titulo: Titulo de la publicación
+
+
+* Empleo : nombre del empleo, caracteristicas de el mismo
+
+
+* Disponibilidad : la disponibilidad del empleo, en cuanto tiempo se requiere.
+
+
+* Fecha: fecha de actualización de la publicación

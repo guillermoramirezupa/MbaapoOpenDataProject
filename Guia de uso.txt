@@ -1,0 +1,9 @@
+﻿Para el uso de este código deberá instalar las herramientas PIPENV y Scrapy
+
+
+Pasos de ejecución
+
+
+1. Scrapy crawl empleos.
+2. Verificar el resultado de archivo CSV.
+3. Realizar la limpieza necesaria para la entrega del mismo a quien requiera.
